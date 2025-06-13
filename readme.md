@@ -9,5 +9,5 @@ simply ask    prompt user for input with defaults
   -e, --noescape   just return on escape instead of exiting
   
 simply build  build common textual constructs
-  -a, --arg-capsule    `[y/N/m]` style builder that takes options and default and returns capsule and passed options
+  -c, --arg-capsule    `[y/N/m]: ` style builder that takes options and default and returns capsule and passed options
 ```
