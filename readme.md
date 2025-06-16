@@ -1,5 +1,5 @@
 # simply
-simple command line scripting toolbox
+simple command line scripting toolbox in the style of charm's [gum](https://github.com/charmbracelet/gum), but with far less dynamism and sparkle
 
 ```
 simply ask    prompt user for input with defaults
