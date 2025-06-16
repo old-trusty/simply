@@ -60,6 +60,6 @@ options:
 construct:
     capsule <default> <all>
         build  [Y/n/m] from "simply build capsule yes yes no maybe" for use with "simply ask" that takes options and default and returns capsule and passed options.
-    regex
-        build a regex match that matches the first letter to the last letter with any capitalization.
+    regex <word>
+        build a regex match that matches the first letter to the last letter of <word> with any capitalization.
 ```
