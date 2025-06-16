@@ -11,13 +11,13 @@ options:
 
 tools:
     -a, ask
-        prompt user for input and return it with escape exiting
+        prompt user for input and return it with escape exiting.
     -b, build
-        build common textual constructs
+        build common textual constructs. many of which made for use with ask.
 ```
 ##  simply ask
 
-prompt user for input with default on empty enter and exit on escape.x
+prompt user for input with default on empty enter and exit on escape.
 simply ask    prompt user for input with defaults
 
 ```help
